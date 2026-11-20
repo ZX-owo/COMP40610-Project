@@ -1,0 +1,4205 @@
+[
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 74.3,
+  "Female_Rate": 77.0,
+  "Both_Sexes_Rate": 75.9
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 63.8,
+  "Female_Rate": 59.2,
+  "Both_Sexes_Rate": 61.7
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 86.9,
+  "Female_Rate": 77.9,
+  "Both_Sexes_Rate": 82.2
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 82.1,
+  "Female_Rate": 68.5,
+  "Both_Sexes_Rate": 75.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 51.5
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.4,
+  "Female_Rate": 83.0,
+  "Both_Sexes_Rate": 87.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.5,
+  "Female_Rate": 70.2,
+  "Both_Sexes_Rate": 80.2
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 51.0
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 91.9,
+  "Female_Rate": 79.3,
+  "Both_Sexes_Rate": 84.2
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 87.1,
+  "Female_Rate": 64.7,
+  "Both_Sexes_Rate": 76.5
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 68.5,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 56.0
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.4,
+  "Female_Rate": 83.9,
+  "Both_Sexes_Rate": 88.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 85.7,
+  "Female_Rate": 68.5,
+  "Both_Sexes_Rate": 77.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 66.6,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 54.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.4,
+  "Female_Rate": 83.3,
+  "Both_Sexes_Rate": 87.9
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 83.8,
+  "Female_Rate": 69.5,
+  "Both_Sexes_Rate": 76.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 72.7,
+  "Female_Rate": 47.0,
+  "Both_Sexes_Rate": 64.2
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.6,
+  "Female_Rate": 80.4,
+  "Both_Sexes_Rate": 86.1
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 90.3,
+  "Female_Rate": 68.1,
+  "Both_Sexes_Rate": 79.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 73.0,
+  "Female_Rate": 39.7,
+  "Both_Sexes_Rate": 61.3
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 81.9,
+  "Female_Rate": 74.0,
+  "Both_Sexes_Rate": 77.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 83.6,
+  "Female_Rate": 67.1,
+  "Both_Sexes_Rate": 74.2
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 68.9,
+  "Female_Rate": 41.6,
+  "Both_Sexes_Rate": 59.2
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 54.7,
+  "Female_Rate": 55.2,
+  "Both_Sexes_Rate": 55.0
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 69.0,
+  "Female_Rate": 53.7,
+  "Both_Sexes_Rate": 60.1
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 63.3,
+  "Female_Rate": 31.5,
+  "Both_Sexes_Rate": 51.3
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 78.9,
+  "Female_Rate": 78.3,
+  "Both_Sexes_Rate": 78.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 62.4,
+  "Female_Rate": 58.8,
+  "Both_Sexes_Rate": 60.7
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 27.0
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 85.4,
+  "Female_Rate": 83.5,
+  "Both_Sexes_Rate": 84.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 80.4,
+  "Female_Rate": 66.3,
+  "Both_Sexes_Rate": 73.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 35.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 91.7,
+  "Female_Rate": 84.3,
+  "Both_Sexes_Rate": 87.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.3,
+  "Female_Rate": 65.1,
+  "Both_Sexes_Rate": 77.8
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 63.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 50.1
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.3,
+  "Female_Rate": 85.3,
+  "Both_Sexes_Rate": 89.0
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 89.1,
+  "Female_Rate": 65.2,
+  "Both_Sexes_Rate": 78.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 67.0,
+  "Female_Rate": 27.5,
+  "Both_Sexes_Rate": 50.3
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.4,
+  "Female_Rate": 83.5,
+  "Both_Sexes_Rate": 87.7
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 89.2,
+  "Female_Rate": 64.4,
+  "Both_Sexes_Rate": 78.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 65.1,
+  "Female_Rate": 31.5,
+  "Both_Sexes_Rate": 52.0
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.4,
+  "Female_Rate": 83.4,
+  "Both_Sexes_Rate": 87.9
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.5,
+  "Female_Rate": 70.6,
+  "Both_Sexes_Rate": 79.7
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 66.5,
+  "Female_Rate": 45.2,
+  "Both_Sexes_Rate": 58.3
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 91.6,
+  "Female_Rate": 80.9,
+  "Both_Sexes_Rate": 85.9
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 86.7,
+  "Female_Rate": 62.7,
+  "Both_Sexes_Rate": 74.1
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 67.9,
+  "Female_Rate": 32.0,
+  "Both_Sexes_Rate": 53.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 79.3,
+  "Female_Rate": 73.4,
+  "Both_Sexes_Rate": 76.1
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 79.1,
+  "Female_Rate": 58.7,
+  "Both_Sexes_Rate": 68.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 64.9,
+  "Female_Rate": 40.4,
+  "Both_Sexes_Rate": 54.0
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 60.8,
+  "Female_Rate": 49.2,
+  "Both_Sexes_Rate": 54.3
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 64.7,
+  "Female_Rate": 46.2,
+  "Both_Sexes_Rate": 55.7
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 53.6,
+  "Female_Rate": 28.6,
+  "Both_Sexes_Rate": 42.2
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 82.9,
+  "Female_Rate": 82.7,
+  "Both_Sexes_Rate": 82.8
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 65.5,
+  "Female_Rate": 60.3,
+  "Both_Sexes_Rate": 63.1
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 36.5,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 33.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.6,
+  "Female_Rate": 86.3,
+  "Both_Sexes_Rate": 88.3
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 81.6,
+  "Female_Rate": 66.3,
+  "Both_Sexes_Rate": 74.5
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 64.3,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 48.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.3,
+  "Female_Rate": 83.3,
+  "Both_Sexes_Rate": 88.3
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 87.2,
+  "Female_Rate": 64.8,
+  "Both_Sexes_Rate": 76.0
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 67.5,
+  "Female_Rate": 35.4,
+  "Both_Sexes_Rate": 52.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.1,
+  "Female_Rate": 85.0,
+  "Both_Sexes_Rate": 89.1
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 91.8,
+  "Female_Rate": 65.8,
+  "Both_Sexes_Rate": 79.8
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 67.8,
+  "Female_Rate": 45.9,
+  "Both_Sexes_Rate": 57.3
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.7,
+  "Female_Rate": 83.7,
+  "Both_Sexes_Rate": 88.3
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 85.5,
+  "Female_Rate": 68.6,
+  "Both_Sexes_Rate": 77.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 68.7,
+  "Female_Rate": 47.4,
+  "Both_Sexes_Rate": 58.1
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 92.5,
+  "Female_Rate": 82.9,
+  "Both_Sexes_Rate": 87.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.5,
+  "Female_Rate": 67.3,
+  "Both_Sexes_Rate": 77.9
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 71.4,
+  "Female_Rate": 42.9,
+  "Both_Sexes_Rate": 59.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.4,
+  "Female_Rate": 82.9,
+  "Both_Sexes_Rate": 88.1
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 84.9,
+  "Female_Rate": 69.8,
+  "Both_Sexes_Rate": 76.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 70.7,
+  "Female_Rate": 47.0,
+  "Both_Sexes_Rate": 60.8
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 89.8,
+  "Female_Rate": 74.6,
+  "Both_Sexes_Rate": 82.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 78.4,
+  "Female_Rate": 64.1,
+  "Both_Sexes_Rate": 70.4
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 71.2,
+  "Female_Rate": 40.7,
+  "Both_Sexes_Rate": 56.5
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 66.4,
+  "Female_Rate": 59.3,
+  "Both_Sexes_Rate": 62.6
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 62.2,
+  "Female_Rate": 51.3,
+  "Both_Sexes_Rate": 56.5
+ },
+ {
+  "Year": 2019,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 54.1,
+  "Female_Rate": 34.7,
+  "Both_Sexes_Rate": 44.8
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 58.8,
+  "Female_Rate": 68.0,
+  "Both_Sexes_Rate": 64.3
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 51.8,
+  "Female_Rate": 41.0,
+  "Both_Sexes_Rate": 46.9
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 74.7,
+  "Female_Rate": 77.3,
+  "Both_Sexes_Rate": 76.2
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 73.6,
+  "Female_Rate": 52.7,
+  "Both_Sexes_Rate": 65.6
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.2,
+  "Female_Rate": 79.4,
+  "Both_Sexes_Rate": 84.1
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 77.3,
+  "Female_Rate": 57.4,
+  "Both_Sexes_Rate": 67.4
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.4,
+  "Female_Rate": 80.3,
+  "Both_Sexes_Rate": 84.3
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 81.1,
+  "Female_Rate": 67.4,
+  "Both_Sexes_Rate": 75.2
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 37.9
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.5,
+  "Female_Rate": 81.4,
+  "Both_Sexes_Rate": 86.2
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 86.4,
+  "Female_Rate": 55.1,
+  "Both_Sexes_Rate": 73.0
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 74.8,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 65.9
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.3,
+  "Female_Rate": 83.2,
+  "Both_Sexes_Rate": 87.8
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.4,
+  "Female_Rate": 68.1,
+  "Both_Sexes_Rate": 77.4
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 73.6,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 59.8
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 87.2,
+  "Female_Rate": 88.9,
+  "Both_Sexes_Rate": 88.1
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 89.3,
+  "Female_Rate": 64.9,
+  "Both_Sexes_Rate": 75.9
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 71.4,
+  "Female_Rate": 39.3,
+  "Both_Sexes_Rate": 59.8
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 83.4,
+  "Female_Rate": 64.4,
+  "Both_Sexes_Rate": 72.6
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 74.1,
+  "Female_Rate": 61.0,
+  "Both_Sexes_Rate": 66.6
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 69.5,
+  "Female_Rate": 39.4,
+  "Both_Sexes_Rate": 60.0
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 68.8,
+  "Female_Rate": 52.1,
+  "Both_Sexes_Rate": 59.5
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 70.9,
+  "Female_Rate": 47.4,
+  "Both_Sexes_Rate": 57.9
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 64.0,
+  "Female_Rate": 30.6,
+  "Both_Sexes_Rate": 50.4
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 69.5,
+  "Female_Rate": 72.8,
+  "Both_Sexes_Rate": 71.3
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 51.1,
+  "Female_Rate": 54.8,
+  "Both_Sexes_Rate": 52.8
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 86.7,
+  "Female_Rate": 78.7,
+  "Both_Sexes_Rate": 82.5
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 72.1,
+  "Female_Rate": 61.1,
+  "Both_Sexes_Rate": 67.3
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 92.0,
+  "Female_Rate": 85.1,
+  "Both_Sexes_Rate": 88.2
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 84.9,
+  "Female_Rate": 50.4,
+  "Both_Sexes_Rate": 68.3
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 63.4,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 51.4
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 91.9,
+  "Female_Rate": 81.9,
+  "Both_Sexes_Rate": 86.0
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 85.6,
+  "Female_Rate": 56.7,
+  "Both_Sexes_Rate": 72.4
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 59.8,
+  "Female_Rate": 37.4,
+  "Both_Sexes_Rate": 51.0
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 91.1,
+  "Female_Rate": 78.5,
+  "Both_Sexes_Rate": 83.8
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 89.1,
+  "Female_Rate": 61.1,
+  "Both_Sexes_Rate": 76.5
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 68.7,
+  "Female_Rate": 33.6,
+  "Both_Sexes_Rate": 55.3
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.4,
+  "Female_Rate": 83.2,
+  "Both_Sexes_Rate": 88.2
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 85.8,
+  "Female_Rate": 61.3,
+  "Both_Sexes_Rate": 74.1
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 73.0,
+  "Female_Rate": 41.9,
+  "Both_Sexes_Rate": 61.2
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.9,
+  "Female_Rate": 84.4,
+  "Both_Sexes_Rate": 87.2
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 78.9,
+  "Female_Rate": 63.4,
+  "Both_Sexes_Rate": 71.3
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 69.2,
+  "Female_Rate": 30.9,
+  "Both_Sexes_Rate": 55.7
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 81.0,
+  "Female_Rate": 74.9,
+  "Both_Sexes_Rate": 77.7
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 74.5,
+  "Female_Rate": 57.3,
+  "Both_Sexes_Rate": 65.6
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 63.5,
+  "Female_Rate": 34.5,
+  "Both_Sexes_Rate": 50.8
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 62.2,
+  "Female_Rate": 52.1,
+  "Both_Sexes_Rate": 56.6
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 65.2,
+  "Female_Rate": 47.8,
+  "Both_Sexes_Rate": 56.2
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 48.5,
+  "Female_Rate": 24.3,
+  "Both_Sexes_Rate": 38.0
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 72.7,
+  "Female_Rate": 74.9,
+  "Both_Sexes_Rate": 73.9
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 57.2,
+  "Female_Rate": 49.3,
+  "Both_Sexes_Rate": 53.6
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 34.8
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 85.6,
+  "Female_Rate": 82.8,
+  "Both_Sexes_Rate": 84.1
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 77.1,
+  "Female_Rate": 55.6,
+  "Both_Sexes_Rate": 67.0
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 32.1
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 92.8,
+  "Female_Rate": 81.8,
+  "Both_Sexes_Rate": 86.8
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 83.2,
+  "Female_Rate": 55.5,
+  "Both_Sexes_Rate": 69.2
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 58.3,
+  "Female_Rate": 38.4,
+  "Both_Sexes_Rate": 50.5
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 92.4,
+  "Female_Rate": 82.1,
+  "Both_Sexes_Rate": 86.9
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.4,
+  "Female_Rate": 56.1,
+  "Both_Sexes_Rate": 71.9
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 67.3,
+  "Female_Rate": 28.7,
+  "Both_Sexes_Rate": 50.8
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 92.8,
+  "Female_Rate": 81.3,
+  "Both_Sexes_Rate": 86.6
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 84.8,
+  "Female_Rate": 66.0,
+  "Both_Sexes_Rate": 76.1
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 57.3,
+  "Female_Rate": 42.5,
+  "Both_Sexes_Rate": 49.7
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 92.4,
+  "Female_Rate": 78.3,
+  "Both_Sexes_Rate": 85.0
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 87.5,
+  "Female_Rate": 66.1,
+  "Both_Sexes_Rate": 76.9
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 64.5,
+  "Female_Rate": 46.4,
+  "Both_Sexes_Rate": 56.5
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 89.3,
+  "Female_Rate": 78.3,
+  "Both_Sexes_Rate": 83.6
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 82.0,
+  "Female_Rate": 64.1,
+  "Both_Sexes_Rate": 72.2
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 69.1,
+  "Female_Rate": 44.6,
+  "Both_Sexes_Rate": 59.4
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 84.3,
+  "Female_Rate": 78.5,
+  "Both_Sexes_Rate": 81.4
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 74.8,
+  "Female_Rate": 67.0,
+  "Both_Sexes_Rate": 70.5
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 67.9,
+  "Female_Rate": 39.5,
+  "Both_Sexes_Rate": 54.8
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 68.0,
+  "Female_Rate": 53.6,
+  "Both_Sexes_Rate": 60.5
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 62.5,
+  "Female_Rate": 43.6,
+  "Both_Sexes_Rate": 52.4
+ },
+ {
+  "Year": 2020,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 54.3,
+  "Female_Rate": 30.8,
+  "Both_Sexes_Rate": 42.9
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 77.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 70.8,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 67.9
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 80.0
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 100.0,
+  "Female_Rate": 89.0,
+  "Both_Sexes_Rate": 94.3
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 72.7
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.3,
+  "Female_Rate": 81.3,
+  "Both_Sexes_Rate": 86.5
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 72.5
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 96.1,
+  "Female_Rate": 86.3,
+  "Both_Sexes_Rate": 90.5
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 85.5,
+  "Female_Rate": 63.8,
+  "Both_Sexes_Rate": 75.0
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 86.6,
+  "Female_Rate": 91.6,
+  "Both_Sexes_Rate": 89.2
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 87.5,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 72.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.4,
+  "Female_Rate": 89.6,
+  "Both_Sexes_Rate": 92.0
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 80.2,
+  "Female_Rate": 71.9,
+  "Both_Sexes_Rate": 76.2
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 89.2,
+  "Female_Rate": 77.5,
+  "Both_Sexes_Rate": 82.7
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 79.0,
+  "Female_Rate": 72.0,
+  "Both_Sexes_Rate": 75.3
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 72.3,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 62.7
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 77.4,
+  "Female_Rate": 59.6,
+  "Both_Sexes_Rate": 66.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 70.1,
+  "Female_Rate": 52.8,
+  "Both_Sexes_Rate": 60.9
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 60.2,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 54.1
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 63.9,
+  "Female_Rate": 72.2,
+  "Both_Sexes_Rate": 68.6
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 65.8,
+  "Female_Rate": 57.1,
+  "Both_Sexes_Rate": 61.6
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.8,
+  "Female_Rate": 82.0,
+  "Both_Sexes_Rate": 88.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 75.3,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 73.1
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 91.0,
+  "Female_Rate": 84.8,
+  "Both_Sexes_Rate": 87.7
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 80.3,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 78.7
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.3,
+  "Female_Rate": 83.2,
+  "Both_Sexes_Rate": 87.6
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 81.2,
+  "Female_Rate": 62.4,
+  "Both_Sexes_Rate": 72.0
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 87.9,
+  "Female_Rate": 85.3,
+  "Both_Sexes_Rate": 86.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 90.7,
+  "Female_Rate": 61.8,
+  "Both_Sexes_Rate": 77.2
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.5,
+  "Female_Rate": 84.6,
+  "Both_Sexes_Rate": 88.9
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 87.0,
+  "Female_Rate": 67.8,
+  "Both_Sexes_Rate": 77.9
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 55.0
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.4,
+  "Female_Rate": 81.2,
+  "Both_Sexes_Rate": 86.5
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 77.4,
+  "Female_Rate": 65.5,
+  "Both_Sexes_Rate": 71.7
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 64.7,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 53.0
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 85.3,
+  "Female_Rate": 77.8,
+  "Both_Sexes_Rate": 81.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 76.0,
+  "Female_Rate": 57.4,
+  "Both_Sexes_Rate": 66.0
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 71.1,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 55.8
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 62.4,
+  "Female_Rate": 49.6,
+  "Both_Sexes_Rate": 55.2
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 63.6,
+  "Female_Rate": 44.8,
+  "Both_Sexes_Rate": 54.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 39.7,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 30.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 75.3,
+  "Female_Rate": 81.9,
+  "Both_Sexes_Rate": 78.9
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 61.0,
+  "Female_Rate": 54.5,
+  "Both_Sexes_Rate": 57.9
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.8,
+  "Female_Rate": 91.4,
+  "Both_Sexes_Rate": 91.1
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 69.2,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 67.5
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 87.7,
+  "Female_Rate": 84.9,
+  "Both_Sexes_Rate": 86.3
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 78.7,
+  "Female_Rate": 64.1,
+  "Both_Sexes_Rate": 71.0
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.6,
+  "Female_Rate": 84.7,
+  "Both_Sexes_Rate": 88.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 86.8,
+  "Female_Rate": 59.7,
+  "Both_Sexes_Rate": 73.3
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 96.2,
+  "Female_Rate": 83.8,
+  "Both_Sexes_Rate": 89.6
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 87.9,
+  "Female_Rate": 70.3,
+  "Both_Sexes_Rate": 79.3
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 89.9,
+  "Female_Rate": 85.8,
+  "Both_Sexes_Rate": 87.7
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 85.8,
+  "Female_Rate": 61.8,
+  "Both_Sexes_Rate": 75.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 48.0
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 88.8,
+  "Female_Rate": 84.8,
+  "Both_Sexes_Rate": 86.8
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 84.6,
+  "Female_Rate": 67.9,
+  "Both_Sexes_Rate": 75.6
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 79.9,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 51.5
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 85.6,
+  "Female_Rate": 75.6,
+  "Both_Sexes_Rate": 80.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 73.3,
+  "Female_Rate": 65.8,
+  "Both_Sexes_Rate": 69.4
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 67.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 61.1
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 68.2,
+  "Female_Rate": 50.2,
+  "Both_Sexes_Rate": 58.7
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 64.4,
+  "Female_Rate": 49.5,
+  "Both_Sexes_Rate": 56.3
+ },
+ {
+  "Year": 2021,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 49.2,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 40.6
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 57.6,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 60.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 89.1
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 80.7
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 96.9,
+  "Female_Rate": 92.5,
+  "Both_Sexes_Rate": 94.6
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 100.0,
+  "Female_Rate": 81.3,
+  "Both_Sexes_Rate": 89.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 88.3
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.2,
+  "Female_Rate": 85.9,
+  "Both_Sexes_Rate": 89.3
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 91.2,
+  "Female_Rate": 84.5,
+  "Both_Sexes_Rate": 88.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.6,
+  "Female_Rate": 86.8,
+  "Both_Sexes_Rate": 90.2
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 86.6,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 77.8
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 100.0,
+  "Female_Rate": 84.2,
+  "Both_Sexes_Rate": 91.7
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 85.8,
+  "Female_Rate": 63.2,
+  "Both_Sexes_Rate": 73.6
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 97.7,
+  "Female_Rate": 85.0,
+  "Both_Sexes_Rate": 89.9
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 73.6,
+  "Female_Rate": 64.9,
+  "Both_Sexes_Rate": 69.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 79.6,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 70.9
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 61.9
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 78.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 63.7
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 68.6,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 50.3
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 84.1,
+  "Female_Rate": 78.5,
+  "Both_Sexes_Rate": 80.7
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 61.1,
+  "Female_Rate": 60.3,
+  "Both_Sexes_Rate": 60.7
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.4,
+  "Female_Rate": 90.6,
+  "Both_Sexes_Rate": 91.8
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 76.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 74.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.8,
+  "Female_Rate": 86.1,
+  "Both_Sexes_Rate": 89.4
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 69.5
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.3,
+  "Female_Rate": 83.2,
+  "Both_Sexes_Rate": 88.1
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 87.1,
+  "Female_Rate": 59.0,
+  "Both_Sexes_Rate": 73.5
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.9,
+  "Female_Rate": 85.2,
+  "Both_Sexes_Rate": 89.8
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 86.8,
+  "Female_Rate": 67.5,
+  "Both_Sexes_Rate": 78.5
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.3,
+  "Female_Rate": 90.1,
+  "Both_Sexes_Rate": 90.2
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 87.6,
+  "Female_Rate": 77.1,
+  "Both_Sexes_Rate": 82.9
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.2,
+  "Female_Rate": 81.4,
+  "Both_Sexes_Rate": 87.3
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.1,
+  "Female_Rate": 68.0,
+  "Both_Sexes_Rate": 78.6
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 75.1,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 57.9
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 82.7,
+  "Female_Rate": 79.6,
+  "Both_Sexes_Rate": 80.9
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 80.5,
+  "Female_Rate": 65.3,
+  "Both_Sexes_Rate": 72.8
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 70.5,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 65.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 67.5,
+  "Female_Rate": 62.4,
+  "Both_Sexes_Rate": 64.7
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 71.2,
+  "Female_Rate": 50.6,
+  "Both_Sexes_Rate": 60.4
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 57.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 42.6
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 86.5,
+  "Female_Rate": 84.0,
+  "Both_Sexes_Rate": 85.3
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 64.6,
+  "Female_Rate": 64.0,
+  "Both_Sexes_Rate": 64.3
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.6,
+  "Female_Rate": 89.3,
+  "Both_Sexes_Rate": 91.4
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 73.8,
+  "Female_Rate": 64.3,
+  "Both_Sexes_Rate": 69.5
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.2,
+  "Female_Rate": 87.9,
+  "Both_Sexes_Rate": 89.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 86.4,
+  "Female_Rate": 71.7,
+  "Both_Sexes_Rate": 78.5
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.9,
+  "Female_Rate": 85.1,
+  "Both_Sexes_Rate": 89.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 91.9,
+  "Female_Rate": 65.0,
+  "Both_Sexes_Rate": 79.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 96.2,
+  "Female_Rate": 84.6,
+  "Both_Sexes_Rate": 89.9
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 92.0,
+  "Female_Rate": 60.6,
+  "Both_Sexes_Rate": 77.3
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 64.4
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.4,
+  "Female_Rate": 85.6,
+  "Both_Sexes_Rate": 89.5
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 93.6,
+  "Female_Rate": 80.8,
+  "Both_Sexes_Rate": 88.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 46.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 98.4,
+  "Female_Rate": 82.3,
+  "Both_Sexes_Rate": 90.1
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 83.2,
+  "Female_Rate": 75.5,
+  "Both_Sexes_Rate": 79.3
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 69.5,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 53.0
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.9,
+  "Female_Rate": 80.2,
+  "Both_Sexes_Rate": 87.3
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 83.9,
+  "Female_Rate": 63.2,
+  "Both_Sexes_Rate": 72.5
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 63.8,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 57.3
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 71.2,
+  "Female_Rate": 56.2,
+  "Both_Sexes_Rate": 63.8
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 66.3,
+  "Female_Rate": 49.8,
+  "Both_Sexes_Rate": 57.1
+ },
+ {
+  "Year": 2022,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 64.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 48.6
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 77.7
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 71.0,
+  "Female_Rate": 67.2,
+  "Both_Sexes_Rate": 69.3
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 91.0,
+  "Female_Rate": 66.7,
+  "Both_Sexes_Rate": 77.7
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 82.9
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 87.7,
+  "Female_Rate": 89.5,
+  "Both_Sexes_Rate": 88.7
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 79.1
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 99.3,
+  "Female_Rate": 80.5,
+  "Both_Sexes_Rate": 88.4
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 82.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 72.6
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.4,
+  "Female_Rate": 84.9,
+  "Both_Sexes_Rate": 88.4
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 92.6,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 90.4
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 84.8,
+  "Female_Rate": 86.2,
+  "Both_Sexes_Rate": 85.6
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 90.3,
+  "Female_Rate": 77.8,
+  "Both_Sexes_Rate": 85.6
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 63.7
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.5,
+  "Female_Rate": 77.6,
+  "Both_Sexes_Rate": 85.7
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 85.4,
+  "Female_Rate": 76.1,
+  "Both_Sexes_Rate": 80.6
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 74.2
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 87.3,
+  "Female_Rate": 85.6,
+  "Both_Sexes_Rate": 86.6
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 82.5,
+  "Female_Rate": 59.2,
+  "Both_Sexes_Rate": 67.7
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 76.9
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 64.8
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 81.3,
+  "Female_Rate": 70.2,
+  "Both_Sexes_Rate": 75.3
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 61.7
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": 71.5,
+  "Both_Sexes_Rate": 74.2
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 65.1,
+  "Female_Rate": 72.5,
+  "Both_Sexes_Rate": 68.1
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 83.6,
+  "Female_Rate": 93.9,
+  "Both_Sexes_Rate": 89.5
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 66.7,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 65.9
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 91.4,
+  "Female_Rate": 81.9,
+  "Both_Sexes_Rate": 86.0
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 82.9,
+  "Female_Rate": 55.8,
+  "Both_Sexes_Rate": 70.7
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 99.0,
+  "Female_Rate": 93.5,
+  "Both_Sexes_Rate": 95.7
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 84.9,
+  "Female_Rate": 61.8,
+  "Both_Sexes_Rate": 74.6
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.3,
+  "Female_Rate": 84.5,
+  "Both_Sexes_Rate": 88.6
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 89.6,
+  "Female_Rate": 72.8,
+  "Both_Sexes_Rate": 81.7
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 62.5
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.8,
+  "Female_Rate": 78.7,
+  "Both_Sexes_Rate": 85.6
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 90.0,
+  "Female_Rate": 74.4,
+  "Both_Sexes_Rate": 81.9
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 65.1
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.7,
+  "Female_Rate": 84.7,
+  "Both_Sexes_Rate": 90.3
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 81.9,
+  "Female_Rate": 77.2,
+  "Both_Sexes_Rate": 79.3
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 49.0
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.6,
+  "Female_Rate": 73.7,
+  "Both_Sexes_Rate": 82.4
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 82.2,
+  "Female_Rate": 59.2,
+  "Both_Sexes_Rate": 71.1
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 73.4,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 66.5
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 61.3,
+  "Female_Rate": 66.6,
+  "Both_Sexes_Rate": 64.1
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 85.6,
+  "Female_Rate": 41.7,
+  "Both_Sexes_Rate": 62.3
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 70.7,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 59.3
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 88.9,
+  "Female_Rate": 87.9,
+  "Both_Sexes_Rate": 88.4
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 72.3,
+  "Female_Rate": 63.8,
+  "Both_Sexes_Rate": 68.3
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 92.5,
+  "Female_Rate": 88.5,
+  "Both_Sexes_Rate": 90.4
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 80.3,
+  "Female_Rate": 78.6,
+  "Both_Sexes_Rate": 79.5
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.7,
+  "Female_Rate": 90.9,
+  "Both_Sexes_Rate": 92.2
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 90.9,
+  "Female_Rate": 61.1,
+  "Both_Sexes_Rate": 76.9
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.8,
+  "Female_Rate": 84.8,
+  "Both_Sexes_Rate": 89.1
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.2,
+  "Female_Rate": 60.0,
+  "Both_Sexes_Rate": 76.1
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 96.1,
+  "Female_Rate": 90.2,
+  "Both_Sexes_Rate": 92.9
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 90.1,
+  "Female_Rate": 77.0,
+  "Both_Sexes_Rate": 84.1
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 55.5
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.4,
+  "Female_Rate": 88.2,
+  "Both_Sexes_Rate": 91.3
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 92.4,
+  "Female_Rate": 70.8,
+  "Both_Sexes_Rate": 84.8
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 57.5
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.3,
+  "Female_Rate": 85.6,
+  "Both_Sexes_Rate": 89.6
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 82.3,
+  "Female_Rate": 64.2,
+  "Both_Sexes_Rate": 73.0
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 67.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 60.5
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 86.6,
+  "Female_Rate": 80.1,
+  "Both_Sexes_Rate": 83.5
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 87.8,
+  "Female_Rate": 51.9,
+  "Both_Sexes_Rate": 66.5
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 77.6,
+  "Female_Rate": 47.3,
+  "Both_Sexes_Rate": 63.4
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 73.3,
+  "Female_Rate": 51.7,
+  "Both_Sexes_Rate": 62.3
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 67.1,
+  "Female_Rate": 45.6,
+  "Both_Sexes_Rate": 55.5
+ },
+ {
+  "Year": 2023,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 58.6,
+  "Female_Rate": 47.6,
+  "Both_Sexes_Rate": 53.7
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 73.0,
+  "Female_Rate": 65.1,
+  "Both_Sexes_Rate": 69.2
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 91.2
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 84.9
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 81.6,
+  "Female_Rate": 86.1,
+  "Both_Sexes_Rate": 84.0
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 84.3
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.3,
+  "Female_Rate": 82.2,
+  "Both_Sexes_Rate": 87.9
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 82.6
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.3,
+  "Female_Rate": 91.7,
+  "Both_Sexes_Rate": 93.3
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 91.2,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 83.0
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.2,
+  "Female_Rate": 82.7,
+  "Both_Sexes_Rate": 86.2
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 73.2,
+  "Female_Rate": 72.5,
+  "Both_Sexes_Rate": 72.8
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 81.9,
+  "Female_Rate": 89.1,
+  "Both_Sexes_Rate": 86.1
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 77.9,
+  "Female_Rate": 70.6,
+  "Both_Sexes_Rate": 74.1
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 58.1
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 86.2,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 64.7
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 84.4,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 65.5
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 80.3,
+  "Female_Rate": 86.8,
+  "Both_Sexes_Rate": 84.2
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 68.6,
+  "Female_Rate": 62.2,
+  "Both_Sexes_Rate": 65.6
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 92.3,
+  "Female_Rate": 89.9,
+  "Both_Sexes_Rate": 90.9
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.6,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 82.2
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 97.3,
+  "Female_Rate": 83.0,
+  "Both_Sexes_Rate": 89.4
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 80.5,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 78.3
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 97.7,
+  "Female_Rate": 86.6,
+  "Both_Sexes_Rate": 91.8
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 93.6,
+  "Female_Rate": 72.6,
+  "Both_Sexes_Rate": 82.9
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 92.6,
+  "Female_Rate": 88.5,
+  "Both_Sexes_Rate": 90.1
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 92.7,
+  "Female_Rate": 68.0,
+  "Both_Sexes_Rate": 82.4
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 89.8,
+  "Female_Rate": 90.4,
+  "Both_Sexes_Rate": 90.2
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 89.4,
+  "Female_Rate": 76.3,
+  "Both_Sexes_Rate": 82.9
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.5,
+  "Female_Rate": 83.2,
+  "Both_Sexes_Rate": 88.3
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 86.6,
+  "Female_Rate": 67.7,
+  "Both_Sexes_Rate": 77.5
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 76.8,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 67.2
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 86.2,
+  "Female_Rate": 80.8,
+  "Both_Sexes_Rate": 83.3
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 83.9,
+  "Female_Rate": 70.0,
+  "Both_Sexes_Rate": 76.8
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 74.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 58.4
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 67.5,
+  "Female_Rate": 56.3,
+  "Both_Sexes_Rate": 61.6
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 67.7,
+  "Female_Rate": 52.4,
+  "Both_Sexes_Rate": 58.9
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 52.2,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 45.2
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 76.2,
+  "Female_Rate": 84.3,
+  "Both_Sexes_Rate": 80.6
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 72.1,
+  "Female_Rate": 63.5,
+  "Both_Sexes_Rate": 68.0
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 92.4,
+  "Female_Rate": 85.2,
+  "Both_Sexes_Rate": 88.7
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 84.1,
+  "Female_Rate": 70.9,
+  "Both_Sexes_Rate": 77.9
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 91.2,
+  "Female_Rate": 90.1,
+  "Both_Sexes_Rate": 90.6
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 77.4,
+  "Female_Rate": 73.4,
+  "Both_Sexes_Rate": 75.5
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.6,
+  "Female_Rate": 87.8,
+  "Both_Sexes_Rate": 91.3
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.3,
+  "Female_Rate": 71.6,
+  "Both_Sexes_Rate": 80.3
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.0,
+  "Female_Rate": 85.3,
+  "Both_Sexes_Rate": 88.9
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 95.1,
+  "Female_Rate": 75.7,
+  "Both_Sexes_Rate": 85.6
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.3,
+  "Female_Rate": 83.1,
+  "Both_Sexes_Rate": 88.8
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 90.7,
+  "Female_Rate": 75.6,
+  "Both_Sexes_Rate": 83.9
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 71.2
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 95.5,
+  "Female_Rate": 86.8,
+  "Both_Sexes_Rate": 90.8
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 83.8,
+  "Female_Rate": 74.5,
+  "Both_Sexes_Rate": 79.3
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 79.6,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 72.0
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 88.0,
+  "Female_Rate": 84.8,
+  "Both_Sexes_Rate": 86.3
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.7,
+  "Female_Rate": 62.7,
+  "Both_Sexes_Rate": 75.8
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 71.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 53.6
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 67.3,
+  "Female_Rate": 67.2,
+  "Both_Sexes_Rate": 67.2
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 70.4,
+  "Female_Rate": 49.7,
+  "Both_Sexes_Rate": 58.9
+ },
+ {
+  "Year": 2024,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 68.2,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 53.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 69.5,
+  "Female_Rate": 66.3,
+  "Both_Sexes_Rate": 68.1
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": 90.7,
+  "Both_Sexes_Rate": 88.2
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": 87.6,
+  "Both_Sexes_Rate": 91.4
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 100.0,
+  "Female_Rate": 81.4,
+  "Both_Sexes_Rate": 89.1
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 93.2,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 85.2
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 97.3,
+  "Female_Rate": 88.8,
+  "Both_Sexes_Rate": 92.1
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 94.4,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 85.5
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 97.2,
+  "Female_Rate": 89.6,
+  "Both_Sexes_Rate": 92.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 90.4,
+  "Female_Rate": 78.3,
+  "Both_Sexes_Rate": 85.3
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 88.4,
+  "Female_Rate": 88.0,
+  "Both_Sexes_Rate": 88.1
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 89.5,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 79.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 92.2,
+  "Female_Rate": 84.6,
+  "Both_Sexes_Rate": 87.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 81.1,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 70.4
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 77.1
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": 56.2,
+  "Both_Sexes_Rate": 57.2
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 68.3,
+  "Female_Rate": 56.9,
+  "Both_Sexes_Rate": 63.1
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Northern and Western",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 49.4
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": null,
+  "Female_Rate": 87.8,
+  "Both_Sexes_Rate": 88.6
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 72.0,
+  "Female_Rate": 57.9,
+  "Both_Sexes_Rate": 65.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 97.0,
+  "Female_Rate": 92.7,
+  "Both_Sexes_Rate": 94.6
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 90.4,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 81.1
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.7,
+  "Female_Rate": 80.6,
+  "Both_Sexes_Rate": 86.3
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 80.3,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 71.8
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 97.1,
+  "Female_Rate": 87.5,
+  "Both_Sexes_Rate": 91.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 85.1,
+  "Female_Rate": 66.6,
+  "Both_Sexes_Rate": 75.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.9,
+  "Female_Rate": 86.7,
+  "Both_Sexes_Rate": 88.5
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 88.4,
+  "Female_Rate": 76.3,
+  "Both_Sexes_Rate": 82.3
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 88.1,
+  "Female_Rate": 90.1,
+  "Both_Sexes_Rate": 89.3
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 93.4,
+  "Female_Rate": 72.5,
+  "Both_Sexes_Rate": 84.3
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 93.3,
+  "Female_Rate": 91.0,
+  "Both_Sexes_Rate": 92.0
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 92.6,
+  "Female_Rate": 81.8,
+  "Both_Sexes_Rate": 87.7
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 75.6
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 89.9,
+  "Female_Rate": 81.6,
+  "Both_Sexes_Rate": 85.3
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 84.9,
+  "Female_Rate": 69.0,
+  "Both_Sexes_Rate": 76.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 69.2,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 55.8
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 69.5,
+  "Female_Rate": 54.0,
+  "Both_Sexes_Rate": 60.8
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 75.5,
+  "Female_Rate": 59.2,
+  "Both_Sexes_Rate": 66.6
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Southern",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 66.0,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 51.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 84.0,
+  "Female_Rate": 92.7,
+  "Both_Sexes_Rate": 88.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "20 - 24 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 61.6,
+  "Female_Rate": 69.0,
+  "Both_Sexes_Rate": 65.0
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.9,
+  "Female_Rate": 88.8,
+  "Both_Sexes_Rate": 89.8
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "25 - 29 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 81.5,
+  "Female_Rate": 66.5,
+  "Both_Sexes_Rate": 73.8
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.5,
+  "Female_Rate": 89.9,
+  "Both_Sexes_Rate": 90.2
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "30 - 34 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 85.3,
+  "Female_Rate": 62.2,
+  "Both_Sexes_Rate": 73.6
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 98.5,
+  "Female_Rate": 87.9,
+  "Both_Sexes_Rate": 92.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "35 - 39 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 83.6,
+  "Female_Rate": 73.1,
+  "Both_Sexes_Rate": 78.3
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 94.9,
+  "Female_Rate": 87.2,
+  "Both_Sexes_Rate": 90.4
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "40 - 44 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 89.2,
+  "Female_Rate": 63.7,
+  "Both_Sexes_Rate": 79.2
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 96.7,
+  "Female_Rate": 87.8,
+  "Both_Sexes_Rate": 92.1
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "45 - 49 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 92.4,
+  "Female_Rate": 77.4,
+  "Both_Sexes_Rate": 85.0
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 90.1,
+  "Female_Rate": 82.4,
+  "Both_Sexes_Rate": 86.2
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 83.5,
+  "Female_Rate": 68.2,
+  "Both_Sexes_Rate": 76.2
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "50 - 54 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": null,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 52.6
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 91.3,
+  "Female_Rate": 81.8,
+  "Both_Sexes_Rate": 86.4
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 77.5,
+  "Female_Rate": 58.4,
+  "Both_Sexes_Rate": 67.7
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "55 - 59 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 57.3,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 49.6
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Tertiary education (Levels 5-8)",
+  "Male_Rate": 69.7,
+  "Female_Rate": 58.8,
+  "Both_Sexes_Rate": 63.9
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Upper secondary and post-secondary non-tertiary education (Levels 3 and 4)",
+  "Male_Rate": 70.3,
+  "Female_Rate": 53.1,
+  "Both_Sexes_Rate": 61.2
+ },
+ {
+  "Year": 2025,
+  "NUTS 2 Region": "Eastern and Midland",
+  "Age Group": "60 - 64 years",
+  "Education Attainment Level": "Primary and lower secondary education (Levels 1-2)",
+  "Male_Rate": 63.3,
+  "Female_Rate": null,
+  "Both_Sexes_Rate": 53.3
+ }
+]
